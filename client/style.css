@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('./images/videoblocks-holiday-background-glowing-particles-on-dark-background_rbg1r8ah6s_thumbnail-180_06.jpg');
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    display: flex;
+    overflow: hidden;
+}
+.inputs{
+    background: none;
+}
+.form{
+    width: 30vw;
+}
