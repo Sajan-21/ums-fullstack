@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.singleUserBG{
+    height: 100vh;
+    background-image: url('../../images/paper-style-dynamic-lines-background_23-2149008629.avif');
+    background-size: cover;
+    background-position: center;
+}
